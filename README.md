@@ -111,6 +111,7 @@ See instructions in the [ventoy directory](ventoy/).
 - [Dooez](https://github.com/Dooez/ventoy-catppuccin)
 - [vinceliuice](https://github.com/vinceliuice/grub2-themes)
 - [tuhanayim](https://github.com/tuhanayim)
+- me
 
 &nbsp;
 
